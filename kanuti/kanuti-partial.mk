@@ -60,6 +60,5 @@ PRODUCT_PACKAGES += \
 	WCNSS_qcom_cfg \
 	WCNSS_qcom_wlan_nv \
 	hci_qcomm_init \
-	wcnss_service \
 	libpn547_fw \
 	libbtnv
